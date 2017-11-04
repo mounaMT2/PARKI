@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881066422747",
+    "firebase_url": "https://parki-e35a0.firebaseio.com",
+    "project_id": "parki-e35a0",
+    "storage_bucket": "parki-e35a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881066422747:android:e4f2e16eb606448a",
+        "android_client_info": {
+          "package_name": "com.example.wsslmac.parki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881066422747-bb4vp44fga46eg5ql8co972ucc2hoa5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wsslmac.parki",
+            "certificate_hash": "61e788069baddf8648cdd9c349cdf90c1de91731"
+          }
+        },
+        {
+          "client_id": "881066422747-n6qim7n8r66p8ubnol77e7p764ngt3ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUh2X-kzCeslncNdIq3BZaNKvvIeCHfS0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881066422747-n6qim7n8r66p8ubnol77e7p764ngt3ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
